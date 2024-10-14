@@ -1,0 +1,6 @@
+streamlit
+opencv-python
+numpy
+keras
+Pillow
+tensorflow  # Ensure this is included if you are using Keras from TensorFlow
